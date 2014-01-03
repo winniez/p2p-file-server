@@ -1,0 +1,141 @@
+# Wind River Product Activation File (install.txt)
+# Issued for host: <schof.colorado.edu> <schof.colorado.edu> <0019b9c8d98e>
+# License number(s): 47182
+# Issued on: 02-AUG-2010 11:44:11
+# 
+# Note: this license is generated cumulatively for all
+# Wind River software managed by this host.
+# 
+# Special note for Named-User Licenses - 
+# Named-User Licenses have Package Suite or Features prefixed with UU_xxx. 
+# License Admin needs to add the individual names to the 'options' file. 
+# Names are added to the file as "INCLUDE <package suite> USER <login name>"
+# The options file should have at least one name and no more than seats licensed. 
+# If this is missing, License server will block any tokens and users will get error=-84. 
+# Changes to the 'options' file must be followed by a re-read or restart of License Server
+# 
+# Important Note:
+# 
+# If a re-read is done, changes to the INCLUDE list will take 12 hours to take effect.
+# 
+# In order for the changes to take affect immediately, the License Server must be restarted.
+# Please refer to the  Site Configuration & FlexLm User Manual for details.
+
+# 1. FlexLM license file:
+# Begin: Server license  ---------------------
+# Serial Number: 47182-0019b9c8d98e-NXZQY9U48Z
+
+SERVER schof.colorado.edu 0019b9c8d98e 27002
+VENDOR wrsd
+PACKAGE FL_SE_GPP_VE_Cfg8 wrsd 3.8 EE6D60E2EFDC \
+	COMPONENTS="DIAB_ARM:5.0 DIAB_COLDFIRE:5.0 DIAB_MIPS:5.0 \
+	DIAB_PENT:5.0 DIAB_PPC:5.0 DIAB_SH:5.0 DIAB_SPARC:5.0 \
+	SNIFF:4.2 SNIFF_CPP:4.2 SNIFF_PRO:4.2 WR_ADA:2.6 \
+	WR_ADA_DEBUG:3.2 WR_CLI_WEB_MIBWAY:4.7 WR_CODE_COVERAGE:3.2 \
+	WR_COMPILER_ARM:5.8 WR_COMPILER_COLDFIRE:5.8 \
+	WR_COMPILER_IA:5.8 WR_COMPILER_MIPS:5.8 WR_COMPILER_PPC:5.8 \
+	WR_COMPILER_SH:5.6 WR_COMPILER_SPARC:5.8 WR_CONNECTION_OCD:2.4 \
+	WR_CONNECTION_TS:3.2 WR_CONNECTION_UA:2.5 WR_COVERAGESCOPE:2.6 \
+	WR_DATA_MONITOR:3.2 WR_DBG_SIM_LINUX:3.2 WR_DBG_SIM_SOL:3.2 \
+	WR_DBG_SIM_WIN:3.2 WR_DEBUGGER:3.2 WR_DEBUG_ALL:3.2 \
+	WR_FUNCTION_TRACER:3.0 WR_GCC:4.1 WR_GCC_IA:3.3 \
+	WR_GCC_MIPS:3.3 WR_GCC_PPC:3.3 WR_GCC_SPARC:3.3 \
+	WR_MEMORY_ANALYZER:3.2 WR_MEMSCOPE:3.9 WR_MULTICORE:2.4 \
+	WR_NATIVE_APP_DEBUG:3.1 WR_PERFORMANCE_PROFILER:3.2 \
+	WR_PROFILESCOPE:4.91 WR_SIM_VX_6:3.2 WR_STETHOSCOPE:7.91 \
+	WR_SYSTEM_VIEWER:4.9 WR_SYSTEM_VIEWER_RT:3.2 WR_TOS_LX_2:3.2 \
+	WR_TOS_VX_5:3.2 WR_TOS_VX_6:3.2 WR_TRACESCOPE:3.7 \
+	WR_TS_ALL:2.0 WR_VXPRJ_VXWORKS:6.8 WR_WORKBENCH:3.2 \
+	WindRiver_GCC:3.3 tornado2:2.2 windview:4.1 windview2:2.2 \
+	wm_cli:4.0 wm_it:4.0 wm_mibway:4.1 wm_web:4.1" OPTIONS=SUITE \
+	SIGN=5DE826829E68
+INCREMENT FL_SE_GPP_VE_Cfg8 wrsd 3.8 23-jul-2013 30 2F1E73ACA5C4 \
+	VENDOR_STRING=<ln>47182</ln><flt>1</flt><ps>2000-8</ps> \
+	BORROW=169 SUPERSEDE=FL_SE_GPP_VE_Cfg8 DUP_GROUP=UH \
+	SUITE_DUP_GROUP=UH ISSUED=02-Aug-2010 \
+	SN=47182-0019b9c8d98e-NXZQY9U48Z START=02-aug-2010 \
+	SIGN=1FD1CFD817AC
+
+
+
+# End: Server license -----------------------
+
+
+# The following instructions apply to developers using networked licenses only.
+
+# Begin: client license  --------------------
+# For developer(s) using LAC: 47182-50MF-WE9VL send the contents between
+# Begin: install.txt and End: install.txt below.
+# In case of a new install ask the developer to paste this content into
+# an install.txt file and run setup using this file.
+# In case of an existing install requiring a permanent activation, ask
+# the developer to paste this content into
+# <InstallDir>/license/WRSLicense.lic file.
+
+# Begin: install.txt
+# Serial Number: 47182-0019b9c8d98e-NXZQY9U48Z
+# Uncomment next 2 line before use. 
+SERVER schof.colorado.edu 0019b9c8d98e 27002
+USE_SERVER
+#--#% Keys
+#--#CDR-R110214.1-1:rR%mr-zH#wS-fEnw#-c+MXI-Q@6tC
+#--#CDR-R110232.1-1:B7pCN-F75FK-FB7B5-5zKsN-fE5CC
+#--#CDR-R110233.1-1:BGpgr-Kf37K-9aQd3-5z@PB-799CC
+#--#CDR-R110234.1-1:Xyyxw-t&2wT-2n$XZ-3X+wx-mX#to-rDNIg-bFFFF
+#--#CDR-R110235.1-1:FCpDN-F75CK-FdAB5-9zMPB-799CC
+#--#CDR-R110236.1-1:FFpDN-F75FK-bB7A5-9zKPA-79gCC
+#--#CDR-R110237.1-1:FFpDN-F75CK-Fd7A5-gzMPB-799CC
+#--#CDR-R110238.1-1:FFpCN-F75FK-FBBA5-9zMPB-79gUC
+#--#CDR-R110239.1-1:FFpCN-F75CK-bdBA5-gzKPA-799UC
+#--#CDR-R110240.1-1:FFpCN-F75CK-bB7B5-CpbNF-F9CFU
+#--#CDR-R110243.1-1:BGphN-775CK-bdBd5-CpbN7-F9CKU
+#--#CDR-R110244.1-1:BGphr-Qf37K-9eFA5-CpFN7-F9FKU
+#--#CDR-R110245.1-1:BGphr-K75CK-FdFA5-FpFN7-F9CKU
+#--#CDR-R110251.1-1:d7pgr-Qf3GK-FdBB5-9pFr7-FEFKU
+#--#CDR-R110676.1-1:BGpgN-F75CK-bBFA5-CzKNB-79CFU
+#--#CDR-R110681.1-1:B7pgr-Kf3FK-FdFB5-9zMNA-79FKU
+#--#CDR-R118107.1-1:$4Wkr-pqx#N-B2I%4-iYM+I-Kj$uo-FFKU9
+#--#CDR-R118794.1-1:Xyyxy-Y@y#T-2nWXy-y#+yz-ZXTTy-yyXyY-fFKKf
+#--#CDR-R118795.1-1:B7pCN-7F5gK-bdBB5-9pKPF-79CKU
+#--#CDR-R118796.1-1:FFpCN-7F5gK-bB7A5-9pMPF-79CKU
+#--#CDR-R118797.1-1:FFpCN-7F59K-Fd7A5-gpKP7-79FKU
+#--#CDR-R127267.1-1:BFpDN-F759K-bdBB5-FpFNB-F9gKU
+#--#CDR-R127528.1-1:BGpCN-775gK-FBFB5-kp9rS-fE5KU
+#--#CDR-R127529.1-1:B7phr-Kf35K-8aKd3-5p8NA-799FU
+#--#CDR-R127690.1-1:B7phN-775gK-FBAB5-9pKN7-F9FUU
+#--#CDR-R127691.1-1:BFphN-Kf3kK-9dBB5-9pKNF-F9FUU
+#--#CDR-R127692.1-1:FCpDN-F75gK-bB7A5-gpMN7-F9FUU
+#--#CDR-R127694.1-1:FGpCN-7f5kK-FBAA5-gpKN7-F9FCU
+#--#CDR-R127696.1-1:F7pDr-Ff59K-FBFB5-FzMNF-F9CCU
+#--#CDR-R127697.1-1:FCpCN-F759K-bd7B5-CzMN7-F9FUU
+#--#CDR-R127698.1-1:F7pDN-7755K-FeAd5-FzKN7-F9CUU
+#--#CDR-R127699.1-1:FGpDr-F759K-FdBB5-FzKN7-F9CUU
+#--#CDR-R127700.1-1:FGpDN-F759K-bBFA5-CzKN7-F9FUU
+#--#CDR-R127704.1-1:FGpDN-F75gK-bBFB5-gzKN7-F9CCU
+#--#CDR-R127705.1-1:FGphr-Qf35K-8dFd3-kz@NF-F9FUU
+#--#CDR-R127706.1-1:FFpgN-Ff5gK-bBNB5-gzKNF-F9CCU
+#--#CDR-R127707.1-1:FepCN-Kf39K-8aAd3-kzMNK-F9GCK
+#--#CDR-R138519.1-1:BGpgr-Nb37U-FdBA5-CzMP7-F99UC
+#--#CDR-R138520.1-1:BGphr-Sb37U-9eQd5-9zMPF-F9gCC
+#--#CDR-R138521.1-1:X#yxy-W@yww-3ozXy-#y%wK-VXyJo-oxXyY-o7sX*-FFFF7
+#--#CDR-R138522.1-1:FCpDN-BF5CU-bBBB5-9zMP7-F99UC
+#--#CDR-R138523.1-1:BCpDN-BF5FU-bdAB5-gzMP7-F9gCC
+#--#CDR-R138524.1-1:FFpDN-BF5CU-bBFA5-gzMP7-F99UC
+#--#CDR-R138525.1-1:FFpDN-BF5FU-FdFA5-9zKPF-F9gUC
+#--#CDR-R141785.1-1:BGpDN-775CU-bd7B5-9zKNF-79gKC
+#--#CDR-R141786.1-1:st@jr-pH+GU-9exs#-2x*Wz-u%oSg
+#--#CDR-R141789.1-1:dIphr-Qf3GU-8aQc3-kz@rQ-fEkKg
+#--#CDR-R141790.1-1:FFphr-775FU-FBAA5-9zMNF-799FF
+#--#CDR-R147447.1-1:PJ$kr-+H#Jv-4jxw#-cx4Xz-u%cAz
+#--#CDR-R147451.1-1:dApgr-Sf3GU-9aSd3-5z8sQ-fEGKz
+#--#CDR-R147452.1-1:FCpgr-A75CU-FB7A5-gzFP7-79CFK
+#--#CDR-R148313.1-1:X#yyy-WZyTw-3ozXy-yy+xW-VXwJy-yyyyY-yyyyy-yyyy#-FF9F3
+#--#CDR-R148314.1-1:FCpDN-B75CU-bBAB5-gzKNB-F9FUU
+#--#CDR-R148315.1-1:BCpDN-B75FU-bdBB5-9zKNB-F9CCU
+#--#CDR-R148316.1-1:FFpDN-B75CU-bB7A5-9zKNB-F9FUU
+#--#CDR-R148317.1-1:FFpDN-B75FU-Fd7A5-gzMNA-F9CUU
+#--#CDR-R148580.1-1:B7phr-Nf37U-FBFA5-CpbPA-79FCU
+#--#CDR-R148618.1-1:B7phr-Nf37U-9eSd5-9pKPA-79CUU
+# End: install.txt
+
+# End: client license  ----------------------

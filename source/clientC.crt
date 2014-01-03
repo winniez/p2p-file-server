@@ -1,0 +1,62 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4 (0x4)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=Colorado, L=Boulder, O=CU Boulder, OU=CSCI5273, CN=Yisha/emailAddress=yiwu1678@colorado.edu
+        Validity
+            Not Before: Dec  6 22:26:57 2013 GMT
+            Not After : Dec  6 22:26:57 2014 GMT
+        Subject: C=US, ST=Colorado, O=CU Boulder, OU=CSCI5273, CN=Yisha/emailAddress=yiwu1678@colorado.edu
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c2:18:61:3c:0e:c5:25:f5:1d:57:21:a2:47:f6:
+                    ed:47:1e:d7:67:4d:8d:7e:11:68:ef:d1:61:f1:9c:
+                    6d:cd:dc:e4:55:cb:23:f0:bb:c7:92:9d:0a:49:69:
+                    36:e1:6e:84:fb:4c:3b:7b:03:0e:d6:16:e8:b3:bc:
+                    f8:ad:12:58:b6:1e:4f:32:40:92:4c:16:37:85:94:
+                    2d:e1:78:bf:66:9c:1d:9a:47:cd:ba:a2:18:5e:9e:
+                    97:08:7c:6c:f5:c1:e3:ea:90:83:0c:0d:9e:63:74:
+                    fe:97:db:94:f1:ad:96:b0:4b:d9:e9:8c:54:5c:fa:
+                    a1:b9:d8:fc:8d:bf:69:46:f5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                63:61:05:CC:2C:F0:74:2A:CA:74:54:CD:98:86:DA:F7:31:62:B2:5B
+            X509v3 Authority Key Identifier: 
+                keyid:A5:1A:AB:8C:58:8D:28:3E:C4:47:C3:39:E7:23:29:05:32:50:53:ED
+
+    Signature Algorithm: sha1WithRSAEncryption
+         46:ec:90:55:b9:f3:95:a0:9c:66:7c:f1:e7:8e:d4:db:d7:78:
+         f3:fa:85:bd:15:59:61:dc:55:71:24:5b:89:a5:bb:e4:2b:b5:
+         a2:11:28:da:1f:03:75:00:3f:60:7f:9f:5c:0b:a4:e6:0a:c8:
+         46:e0:46:fc:f5:c3:e4:cd:49:78:20:85:3d:b2:90:f2:a5:8c:
+         fb:3c:50:e8:54:ab:c2:53:fd:69:9d:47:fd:47:fa:74:92:f0:
+         18:37:bb:59:3b:be:b2:5e:92:00:11:fd:b1:1e:e2:c0:f7:8e:
+         e0:01:19:92:fb:78:e0:b8:c6:df:3e:2e:90:05:12:43:ac:65:
+         7e:57
+-----BEGIN CERTIFICATE-----
+MIIDADCCAmmgAwIBAgIBBDANBgkqhkiG9w0BAQUFADCBkDELMAkGA1UEBhMCVVMx
+ETAPBgNVBAgMCENvbG9yYWRvMRAwDgYDVQQHDAdCb3VsZGVyMRMwEQYDVQQKDApD
+VSBCb3VsZGVyMREwDwYDVQQLDAhDU0NJNTI3MzEOMAwGA1UEAwwFWWlzaGExJDAi
+BgkqhkiG9w0BCQEWFXlpd3UxNjc4QGNvbG9yYWRvLmVkdTAeFw0xMzEyMDYyMjI2
+NTdaFw0xNDEyMDYyMjI2NTdaMH4xCzAJBgNVBAYTAlVTMREwDwYDVQQIDAhDb2xv
+cmFkbzETMBEGA1UECgwKQ1UgQm91bGRlcjERMA8GA1UECwwIQ1NDSTUyNzMxDjAM
+BgNVBAMMBVlpc2hhMSQwIgYJKoZIhvcNAQkBFhV5aXd1MTY3OEBjb2xvcmFkby5l
+ZHUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMIYYTwOxSX1HVchokf27Uce
+12dNjX4RaO/RYfGcbc3c5FXLI/C7x5KdCklpNuFuhPtMO3sDDtYW6LO8+K0SWLYe
+TzJAkkwWN4WULeF4v2acHZpHzbqiGF6elwh8bPXB4+qQgwwNnmN0/pfblPGtlrBL
+2emMVFz6obnY/I2/aUb1AgMBAAGjezB5MAkGA1UdEwQCMAAwLAYJYIZIAYb4QgEN
+BB8WHU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBRjYQXM
+LPB0Ksp0VM2Yhtr3MWKyWzAfBgNVHSMEGDAWgBSlGquMWI0oPsRHwznnIykFMlBT
+7TANBgkqhkiG9w0BAQUFAAOBgQBG7JBVufOVoJxmfPHnjtTb13jz+oW9FVlh3FVx
+JFuJpbvkK7WiESjaHwN1AD9gf59cC6TmCshG4Eb89cPkzUl4IIU9spDypYz7PFDo
+VKvCU/1pnUf9R/p0kvAYN7tZO76yXpIAEf2xHuLA947gARmS+3jguMbfPi6QBRJD
+rGV+Vw==
+-----END CERTIFICATE-----
